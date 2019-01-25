@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".pengenalan">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:textSize="16dp"
+        android:text="Pengertian Ruqyah
+
+Ruqyah secara etiomolog : ar-Ruqyah (الرُّقْيَةُ) bentuk jamaknya Ar-Ruqaa (الرُّقَي) artinya Jampi, Mantera, Suwuk, Rapal. Terkadang bermakna ‘Azimah (Jimat), dalam Lisanul Arob Ruqyah di definiskan sebagai setiap jampi jampi yang baik, Al-Fairuz Abadi berkata: ''Yang dimaksud 'azimah-'azimah adalah ruqyah-ruqyah ''.  Imam Ibn al-Mandzur mengatakan:
+
+قال ابن منظور: والرقية: العوذة، معروفة، والجمع رقى. وتقول: استرقيته فرقاني رقية، فهو راق ... يقال: رقى الراقي رقية ورقيا إذا عوذ ونفث في عوذته“
+
+“ Ruqyah : do’a perlindungan, jamaknya ruqaa. Kita katakan: Aku meminta ruqyahnya dan ia meruqyahku ia disebut raqi... Dikatakan : peruqyah meruqyah dengan suatu jampi artinya adalah ia meminta perlindungan dan menghembuskan nafas dalam do’anya”.
+
+Secara Istilah adalah :
+
+هي دعاء و تعويذ بقراءة شيءٍ من القرآن الكريم وأسماء الله وصفاته مع الأدعية الشرعية باللسانالعربي أو ما يعرف معناه مع النفث ؛ لرفع العلة والمرض او لجميع الحاجات المختلفة
+
+“ Ruqyah yakni do’a dan perlindungan (penjagaan) dengan membaca ayat-ayat al-Qur’an al-Karim, Nama-Nama Allah dan Sifat-Sifat-Nya, disamping do’a-do’a syar’i yang menggunakan bahasa arab atau selain bahasa arab yang diketahui maknanya, disertai hembusan nafas; untukmenghilangkan penderitaan, penyakit atau untuk semua macam hajat.”
+
+Al-Hafidz Ibnu Hajar mengatakan :
+
+الرقية كلام يستشفى به من كل عارض
+
+
+“Ruqyah adalah ucapan yang dibacakan untuk kesembuhan segala macam gangguan atau penyakit “
+
+Ath-Thibi mengatakan :
+
+ما يرقى به من الدعاء لطلب الشفاء
+“ Doa apapun yang dibacakan untuk kesembuhan “
+
+Al-Hafidz Ibnu Atsir mengatakan :
+
+الرُّقْيَة : العُوذة التي يُرْقى بها صاحب الآفة كالحُمَّى والصَّرع وغير ذلك من الآفات
+
+“ Ruqyah adalah perlindungan yang dibacakan kepada orang yang tertimpa penyakit seperti demam, kesurupan dan penyakit lainnya “.
+
+Sedangkan Al-jauhari dalam al Misbah 1/232 mendefinisikan Ruqyah adalah setiap matra matra perlindungan disertai tiupan yang ringan.
+
+Dapat dikatakan Ruqyah doa dan bacaan-bacaan yg mengandung permintaan tolong dan perlindungan kepada Alloh SWT untuk mencegah atau mengangkat bala/penyakit dari tubuh. Messkipun terkadang doa atau bacaan itu disertai dengan sebuah tiupan dari mulut ke kedua telapak tangan atau anggota tubuh orang yg meruqyah atau yg diruqyah.
+
+Jadi kalau Ruqyah itu bermakna doa, Itu memang benar sekali. Namun makna doa di sini mengalami pengkhususan makna hanya untuk “mengharapkan kesembuhan” sehingga tidak semua doa boleh dikatakan Ruqyah. Sehingga kurang tepat bila ruqyah disandarkan pada selain kesembuhan, misalkan perkataan Ruqyah untuk mencari barang hilang, Ruqyah bukan untuk mengundang jodoh, pelejit karir, Ruqyah untuk melariskan dagangan, Ruqyah untuk menolak/mengundang hujan, ataupun yang lainnya. Sebagaimana kata  Walaupun ngemil itu maknanya adalah makan
+
+doa dengan media air lalu diminumkan ke pasien atau dengan tiupan setelah berdoa atau memegang kepala dengan didoakan adalah sudah termasuk ruqyah yang diperbolehkan. Asalkan bacaannya sesuai yang dianjurkan oleh syare’at dan tekhniknya juga tidak melanggar syare’at, maka sudah dianggap ruqyah syar’iyyah
+
+"/>
+    </ScrollView>
+</RelativeLayout>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="g.danytux.sheet">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".SPLASHCRINT">
+        <intent-filter>
+            <action android:name="android.intent.action.MAIN" />
+
+            <category android:name="android.intent.category.LAUNCHER" />
+        </intent-filter>
+    </activity>
+        <activity android:name=".AddItem" />
+        <activity android:name=".BelajarActivity" />
+        <activity android:name=".TeknikhoyaliActivity" />
+        <activity android:name=".BtnhoyaliActivity" />
+        <activity android:name=".isyaroh_telunjuk" />
+        <activity android:name=".Tatap_mata" />
+        <activity android:name=".not_hoyali" />
+        <activity android:name=".noting_ruqyah" />
+        <activity android:name=".mengikat_jin" />
+        <activity android:name=".pukulan_telunjuk" />
+        <activity android:name=".ruqyah_medialampu" />
+        <activity android:name=".media_tasbih" />
+        <activity android:name=".netralisir_buhul" />
+        <activity android:name=".metode_foto" />
+        <activity android:name=".surga_neraka" />
+        <activity android:name=".pasukan_langit" />
+        <activity android:name=".memberi_senjata" />
+        <activity android:name=".memutuskan_jin" />
+        <activity android:name=".menutup_alamgaib" />
+        <activity android:name=".Webview" />
+        <activity android:name=".youtube" />
+        <activity android:name=".MainActivity" />
+        <activity android:name=".ruqyah_video" />
+        <activity android:name=".pengenalan" />
+    </application>
+
+</manifest>

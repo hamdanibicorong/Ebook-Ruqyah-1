@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".isyaroh_telunjuk">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Do'a Ruqyah"
+        android:textSize="30dp"
+        android:layout_gravity="center"
+        android:padding="10dp"
+        android:textColor="#000989"
+        android:textStyle="bold"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Membaca Do'a:"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:textColor="#000"
+        android:paddingHorizontal="10dp"/>
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/hoyalitelunjuk"
+        android:layout_marginVertical="10dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Atau membaca do'a imam syafi'i:"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:textColor="#000"
+        android:paddingHorizontal="10dp"/>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/telunjuk2"
+        android:layout_marginVertical="20dp"/>
+
+
+
+</LinearLayout>

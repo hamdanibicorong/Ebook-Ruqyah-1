@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#D3D3D3"
+    tools:context=".MainActivity">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Teknik Ruqyah Aswaja"
+        android:gravity="center"
+        android:padding="20dp"
+        android:textSize="10pt"
+        android:textStyle="bold"
+        android:textColor="#000988"/>
+    <!--<com.google.android.gms.ads.AdView-->
+        <!--xmlns:ads="http://schemas.android.com/apk/res-auto"-->
+        <!--android:id="@+id/adVie"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_alignParentBottom="true"-->
+        <!--android:layout_centerHorizontal="true"-->
+        <!--android:layout_gravity="bottom"-->
+        <!--android:layout_marginBottom="8dp"-->
+        <!--android:layout_marginEnd="8dp"-->
+        <!--android:layout_marginStart="8dp"-->
+        <!--ads:adSize="BANNER"-->
+        <!--ads:adUnitId="@string/banner_home_footer"-->
+        <!--app:layout_constraintBottom_toBottomOf="parent"-->
+        <!--app:layout_constraintEnd_toEndOf="parent"-->
+        <!--app:layout_constraintStart_toStartOf="parent" />-->
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/btn_isyaroh1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:background="@drawable/styleme"
+                android:padding="20dp"
+                android:text="sholawat tibbil qulubn dan ayat ruqyah"
+                android:theme="@style/Theme.AppCompat" />
+
+            <Button
+                android:id="@+id/btn_isyaroh2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:layout_marginVertical="100dp"
+                android:background="@drawable/styleme"
+                android:padding="20dp"
+                android:text="do'a kesembuhan"
+                android:textSize="14dp" />
+
+            <!--<Button-->
+                <!--android:id="@+id/btn_isyaroh3"-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_margin="10dp"-->
+                <!--android:background="@drawable/styleme"-->
+                <!--android:padding="20dp"-->
+                <!--android:text="do'a kesembuhan"-->
+                <!--android:textSize="14dp" />-->
+
+            <!--<Button-->
+                <!--android:id="@+id/btn_isyaroh4"-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_margin="10dp"-->
+                <!--android:background="@drawable/styleme"-->
+                <!--android:padding="20dp"-->
+                <!--android:text="mengikat jin" />-->
+
+            <!--<Button-->
+                <!--android:id="@+id/btn_isyaroh5"-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_margin="10dp"-->
+                <!--android:background="@drawable/styleme"-->
+                <!--android:padding="20dp"-->
+                <!--android:text="pukulan jarak jauh" />-->
+
+            <!--<Button-->
+                <!--android:id="@+id/btn_isyaroh6"-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_margin="10dp"-->
+                <!--android:background="@drawable/styleme"-->
+                <!--android:padding="20dp"-->
+                <!--android:text="meruqyah dengan media lampu senter" />-->
+
+            <!--<Button-->
+                <!--android:id="@+id/btn_isyaroh7"-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_margin="10dp"-->
+                <!--android:background="@drawable/styleme"-->
+                <!--android:padding="20dp"-->
+                <!--android:text="mendeteksi non medis dengan media tasbih" />-->
+
+            <!--<Button-->
+                <!--android:id="@+id/btn_isyaroh8"-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_margin="10dp"-->
+                <!--android:background="@drawable/styleme"-->
+                <!--android:padding="20dp"-->
+                <!--android:text="mencari buhul dengan media air ruqyah" />-->
+
+            <!--<Button-->
+                <!--android:id="@+id/btn_isyaroh9"-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_margin="10dp"-->
+                <!--android:background="@drawable/styleme"-->
+                <!--android:padding="20dp"-->
+                <!--android:text="meruqyah lewat foto" />-->
+
+            <!--<Button-->
+                <!--android:id="@+id/btn_isyaroh10"-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_margin="10dp"-->
+                <!--android:background="@drawable/styleme"-->
+                <!--android:padding="20dp"-->
+                <!--android:text="memperlihatkan neraka dan syurga" />-->
+
+            <!--<Button-->
+                <!--android:id="@+id/btn_isyaroh11"-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_margin="10dp"-->
+                <!--android:background="@drawable/styleme"-->
+                <!--android:padding="20dp"-->
+                <!--android:text="mendatangkan pasukan langit" />-->
+
+            <!--<Button-->
+                <!--android:id="@+id/btn_isyaroh12"-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_margin="10dp"-->
+                <!--android:background="@drawable/styleme"-->
+                <!--android:padding="20dp"-->
+                <!--android:text="membuat atau memberikan senjata" />-->
+
+            <!--<Button-->
+                <!--android:id="@+id/btn_isyaroh13"-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_margin="10dp"-->
+                <!--android:background="@drawable/styleme"-->
+                <!--android:padding="20dp"-->
+                <!--android:text="memutuskan ikatan dukun" />-->
+
+            <!--<Button-->
+                <!--android:id="@+id/btn_isyaroh14"-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_margin="10dp"-->
+                <!--android:background="@drawable/styleme"-->
+                <!--android:padding="20dp"-->
+                <!--android:text="menutup pandangan ghaib balita" />-->
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>
